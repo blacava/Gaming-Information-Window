@@ -13,3 +13,9 @@ Open to constructive feedback! I want to make this better for myself and anyone 
 Current issues as of March 2023
 -Doesn't update every 500ms (0.5s), roughly updates every 2000ms (2s)
 -Cannot be run directly from python. Windows terminal keeps popping up everytime it is updated
+^^Would really love feedback on how to fix this issue
+I have tried saving the file as .pyw with no luck
+
+To run this program:
+Download files to same folder
+Run "RunScript.VBS"
