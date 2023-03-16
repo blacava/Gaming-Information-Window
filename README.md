@@ -21,3 +21,8 @@ I have tried saving the file as .pyw with no luck
 To run this program:
 - Download files to same folder
 - Run "RunScript.VBS"
+
+Python packages required:
+- psutil
+- GPUtil
+- wmi
