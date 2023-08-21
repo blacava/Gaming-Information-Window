@@ -24,5 +24,4 @@ To run this program:
 
 Python packages required:
 - psutil
-- GPUtil
 - wmi
